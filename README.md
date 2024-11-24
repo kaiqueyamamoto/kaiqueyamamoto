@@ -30,13 +30,6 @@ Tenho experiência com tecnologias modernas como **JavaScript**, **TypeScript**,
 
 ---
 
-### 💻 Projetos em Destaque:
-- **[Pay Conecta](https://github.com/conecta-tech/conecta-pay.git)**: Plataforma de integração para e-commerces e meios de pagamento, utilizando **Next.js 15**, **PrismaJS**, e **MongoDB**.
-- **[WolfStoke Timer](https://wolfstoke.com)**: Aplicativo de timer pomodoro com foco em produtividade, construído com **Next.js** e **ShadCN**.
-- **Big Whale NFT Club**: Sistema de cashback vinculado a NFTs, integrando **Web3** e **blockchain**.
-
----
-
 ### 🎓 Certificações:
 - **AWS Certified Solutions Architect – Associate**
 - **Microsoft Certified: Azure Solutions Architect Expert**
