@@ -1,4 +1,4 @@
-# **Kaique Mitsuo Silva Yamamoto**
+# **Kaique Mitsuo Silva Yamamoto [PT-BR]**
 
 Desenvolvedor **Full Stack** com mais de **9 anos de experiência** no universo da tecnologia, especializado em criar soluções escaláveis e robustas para diversas indústrias. Sou apaixonado por resolver problemas complexos e transformar ideias em **tecnologia inovadora**.
 
@@ -67,7 +67,7 @@ Estou desenvolvendo soluções para:
 
 ---
 
-# **Kaique Mitsuo Silva Yamamoto**
+# **Kaique Mitsuo Silva Yamamoto [EN]**
 
 **Full Stack Developer** with over **9 years of experience** in the tech industry, specializing in building scalable and robust solutions for various industries. I am passionate about solving complex problems and turning ideas into **innovative technology**.
 
