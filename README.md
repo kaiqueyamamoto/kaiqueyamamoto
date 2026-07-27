@@ -1,135 +1,105 @@
-# **Kaique Mitsuo Silva Yamamoto [PT-BR]**
+# Kaique Mitsuo Silva Yamamoto
 
-Desenvolvedor **Full Stack** com mais de **9 anos de experiência** no universo da tecnologia, especializado em criar soluções escaláveis e robustas para diversas indústrias. Sou apaixonado por resolver problemas complexos e transformar ideias em **tecnologia inovadora**.
+**Full Stack & AI Engineer** — 10+ anos em tecnologia.
 
-Atuo em:
-- **Integração de APIs**
-- **Desenvolvimento de sistemas distribuídos**
-- **Otimização de infraestrutura na nuvem**
-- **Web3 e Blockchain**
-- **Mercado Financeiro**
+Comecei montando servidores Linux e redes de provedores ISP. Hoje arquiteto sistemas que combinam engenharia full stack com IA aplicada — do pipeline de RAG em produção ao deploy em Kubernetes.
 
-Tenho domínio em tecnologias modernas como **JavaScript**, **TypeScript**, **Python**, **Go**, **PHP** e frameworks populares, incluindo **React**, **Next.js**, **NestJS**, **Laravel** e **Spring Boot**. Meu foco é criar **aplicações robustas**, seguras e preparadas para o futuro.
-
-Sou entusiasta de **DevOps** e infraestrutura, utilizando ferramentas como Docker, Kubernetes e Terraform para entregar sistemas altamente confiáveis e eficientes.
+> 🇬🇧 Full Stack & AI Engineer with 10+ years of experience. From ISP networks and Linux servers to RAG pipelines, distributed systems and Kubernetes on AWS/GCP. Based in Brazil, working with clients worldwide.
 
 ---
 
-## O que estou criando atualmente?
-Estou desenvolvendo soluções para:
-- **Web3 e Blockchain**: Construindo aplicações descentralizadas.
-- **Sistemas Full Stack**: Unindo performance e design.
-- **Mercado Financeiro**: Automação e análise de dados financeiros.
+## Especialidades
+
+| Área | Foco |
+|---|---|
+| **LLMs & IA aplicada** | RAG, embeddings, agentes e subagentes, prompt engineering, avaliação de respostas. Integração com OpenAI, Anthropic e Gemini. |
+| **DevOps & Cloud** | Kubernetes, Terraform, CI/CD, observabilidade e SRE em AWS, GCP e Azure. |
+| **Arquitetura de software** | Microsserviços, arquitetura orientada a eventos, mensageria, API gateway e gestão de identidade. |
+| **Segurança da informação** | Keycloak (SPI e temas), Kong, hardening de rede e servidores Linux. |
+| **Vendas B2B & Growth** | ICP, cadência, funil SDR→Closer, CRM e forecast. |
 
 ---
 
-## Tecnologias que domino
+## Projeto atual
 
-### **Frontend**
-<div>
-  <img align="center" alt="React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" title="React">
-  <img align="center" alt="Next.js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" title="Next.js">
-  <img align="center" alt="TypeScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" title="TypeScript">
-</div>
+### Plataforma de conhecimento técnico e financeiro
 
-### **Backend**
-<div>
-  <img align="center" alt="Node.js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" title="Node.js">
-  <img align="center" alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python">
-  <img align="center" alt="Spring Boot" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" title="Spring Boot">
-</div>
+Base de conhecimento própria com CMS headless, construída do zero e em produção.
 
-### **DevOps & Cloud**
-<div>
-  <img align="center" alt="Docker" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" title="Docker">
-  <img align="center" alt="Kubernetes" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" title="Kubernetes">
-  <img align="center" alt="Terraform" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" title="Terraform">
-</div>
+**Números atuais (jul/2026):**
+
+| Item | Volume |
+|---|---|
+| Artigos MDX publicados | **924** |
+| Trilhas de conteúdo | **16** (mercado financeiro, arquitetura de software, IA, cripto, startup, segurança, redes/ISP…) |
+| Verbetes de glossário | **269** |
+| Ativos financeiros estruturados | **641** FIIs · **483** ETFs · **91** ações |
+| Vídeos catalogados e classificados | **1.340** |
+| Migrations SQL versionadas | **15** |
+| Versão do produto | **v3.47.0** |
+
+**Stack:** Next.js 15 (App Router) · TypeScript · Fumadocs MDX · Supabase (Postgres + RLS + Storage) · Stripe (checkout, webhooks, PIX) · Tailwind · Zod · Vitest · Playwright (e2e desktop + mobile) · Vercel
+
+**O que tem por baixo:** CMS próprio com autenticação, sessões, tokens de preview, histórico de revisões e audit log. Pipeline de conteúdo MDX servido direto do Postgres. Ingestão e classificação automática de vídeos. Geração de PDF e QR Code. Rota de health check e alertas no Slack. Grafo de conhecimento gerado a partir dos links internos.
+
+---
+
+## Experiência
+
+| Empresa | Frentes principais |
+|---|---|
+| **act digital** | RAG, embeddings e LLMs em produto. React, TypeScript, React Native. Node.js, GraphQL e Go. Arquitetura orientada a eventos. |
+| **BRQ Digital Solutions** | React e Angular. Node.js, NestJS, FastAPI e Django. Docker, Kubernetes, AWS e Keycloak. |
+| **GrooveTech** | Engenharia sênior. TypeScript, Python e Go. Robot Framework e Jest. Azure DevOps, Docker e Kubernetes. |
+| **Elastic Code** | APIs e microsserviços com Node.js, Laravel e Go. Docker, Kubernetes, Rancher e Terraform. Kong e mensageria. |
+| **NOOMA DIGITAL** | Customizações de Keycloak (SPI e temas). Spring Cloud. Java, React Native, PHP e Go. |
+| **Wivo** | Node.js (Express/NestJS) em arquitetura distribuída. GKE e Google Cloud. Keycloak e API gateway. |
+| **ARQDIGITAL** *(freelance, nov/2024 – fev/2025)* | Angular + NestJS. Python/FastAPI e Go. Keycloak. AWS e Azure DevOps. C#/.NET. Integração industrial via Modbus. |
+| **Upwork & 99Freelas** | Plataformas de trading automatizado e bots. Apps e integrações financeiras. Monolito → microsserviços. |
+| **Início de carreira** | Redes e servidores Linux, WordPress, automações em Python e VBA. |
+
+---
+
+## Stack
+
+**Linguagens** — TypeScript · JavaScript · Python · Go · Java · PHP · C# · Dart
+
+**Frontend & Mobile** — React · Next.js · Angular · React Native · Expo · Flutter · Tailwind
+
+**Backend** — Node.js/Express · NestJS · FastAPI · Django · Spring Boot · Laravel · Gin · GraphQL
+
+**IA** — OpenAI · Anthropic · Gemini · LangChain · RAG · prompt engineering · n8n
+
+**Dados** — PostgreSQL · Supabase · MongoDB · Redis · Kafka · RabbitMQ
+
+**Cloud & DevOps** — AWS · GCP · Azure · Proxmox · Docker · Kubernetes · Terraform · Ansible · Rancher · GitHub Actions · Jenkins · Azure DevOps
+
+**Segurança & Identidade** — Keycloak · Kong API Gateway · pfSense · iptables · Linux hardening
+
+**Observabilidade** — Grafana · Prometheus · ELK Stack · Zabbix · SonarQube
 
 ---
 
 ## Certificações
-- AWS Certified Solutions Architect – Associate  
-- AWS Certified Developer – Associate  
-- Google Cloud Certified – Professional Cloud Developer  
-- Microsoft Certified: Azure Solutions Architect Expert  
-- Certified Kubernetes Administrator (CKA)  
+
+- **LPIC-1** e **LPIC-2** — Linux Professional Institute
+- **Google Cloud** — Developer & Architect
+- **AWS** — Solutions Architect & Developer
+- **HashiCorp Certified: Terraform Associate**
+
+**Parcerias:** Google Partner · AWS Partner
+
+## Formação
+
+- freeCodeCamp — Back End Development and APIs
+- freeCodeCamp — Tecnologia em Informática/Software
 
 ---
 
-## Vamos Conectar?
-- [LinkedIn](https://www.linkedin.com/in/kaique-yamamoto/)  
-- [GitHub](https://github.com/kaiqueyamamoto)  
-- [WolfStoke](https://wolfstoke.com)  
-- [Conecta Tech](https://conecta-tech.com.br)  
-- [Redblock](https://redblock.com.nr)  
-- [X (Twitter)](https://x.com/MitsuoSilva)  
+## Contato
 
----
+- **E-mail** — kaique@redblock.com.br
+- **LinkedIn** — [in/kaique-yamamoto](https://www.linkedin.com/in/kaique-yamamoto/)
+- **X** — [@MitsuoSilva](https://x.com/MitsuoSilva)
 
-# **Kaique Mitsuo Silva Yamamoto [EN]**
-
-**Full Stack Developer** with over **9 years of experience** in the tech industry, specializing in building scalable and robust solutions for various industries. I am passionate about solving complex problems and turning ideas into **innovative technology**.
-
-Areas of expertise:
-- **API Integration**
-- **Distributed Systems Development**
-- **Cloud Infrastructure Optimization**
-- **Web3 and Blockchain**
-- **Financial Markets**
-
-I am proficient in modern technologies like **JavaScript**, **TypeScript**, **Python**, **Go**, **PHP**, and popular frameworks such as **React**, **Next.js**, **NestJS**, **Laravel**, and **Spring Boot**. My focus is on creating **robust, secure, and future-ready applications**.
-
-I am also a **DevOps** enthusiast, leveraging tools like Docker, Kubernetes, and Terraform to deliver highly reliable and efficient systems.
-
----
-
-## What am I currently working on?
-I am developing solutions for:
-- **Web3 and Blockchain**: Building decentralized applications.  
-- **Full Stack Systems**: Combining performance and design.  
-- **Financial Markets**: Automation and data analysis.  
-
----
-
-## Tech Stack
-
-### **Frontend**
-<div>
-  <img align="center" alt="React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" title="React">
-  <img align="center" alt="Next.js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" title="Next.js">
-  <img align="center" alt="TypeScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" title="TypeScript">
-</div>
-
-### **Backend**
-<div>
-  <img align="center" alt="Node.js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" title="Node.js">
-  <img align="center" alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python">
-  <img align="center" alt="Spring Boot" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" title="Spring Boot">
-</div>
-
-### **DevOps & Cloud**
-<div>
-  <img align="center" alt="Docker" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" title="Docker">
-  <img align="center" alt="Kubernetes" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" title="Kubernetes">
-  <img align="center" alt="Terraform" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" title="Terraform">
-</div>
-
----
-
-## Certifications
-- AWS Certified Solutions Architect – Associate  
-- AWS Certified Developer – Associate  
-- Google Cloud Certified – Professional Cloud Developer  
-- Microsoft Certified: Azure Solutions Architect Expert  
-- Certified Kubernetes Administrator (CKA)  
-
----
-
-## Let's Connect
-- [LinkedIn](https://www.linkedin.com/in/kaique-yamamoto/)  
-- [GitHub](https://github.com/kaiqueyamamoto)  
-- [WolfStoke](https://wolfstoke.com)  
-- [Conecta Tech](https://conecta-tech.com.br)  
-- [Redblock](https://redblock.com.nr)  
-- [X (Twitter)](https://x.com/MitsuoSilva)  
+Aberto a projetos de IA aplicada, arquitetura escalável e mentoria individual em arquitetura de software, cloud, IA e mercado financeiro quantitativo.
